@@ -1,0 +1,7 @@
+<div class="word-cloud-container">
+  @for (word of words(); track word.text) {
+    <div class="word" [ngStyle]="getWordStyle(word)">
+      {{ word.text }}
+    </div>
+  }
+</div>

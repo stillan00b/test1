@@ -1,0 +1,19 @@
+.word-cloud-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.word {
+  cursor: pointer;
+  user-select: none;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.word:hover {
+  transform: translate(-50%, -50%) scale(1.2) !important;
+  filter: brightness(1.3);
+}

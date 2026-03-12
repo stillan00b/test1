@@ -1,0 +1,49 @@
+export const WORDS = `
+10x
+Angular
+Animation
+Application
+Beautiful
+Browser
+Cloud
+Code
+Component
+Creative
+Design
+Development
+Dynamic
+Efficient
+Elegant
+Eliza
+Engineering
+Engineering 2.0
+Fast
+Flexible
+Framework
+Frontend
+HTTP
+Innovation
+Interactive
+Interface
+Java
+Lead Time to Change
+Module
+Modern
+Ona
+Performance
+Powerful
+Python
+Reactive
+Reliable
+Responsive
+Robust
+Scalable
+Service
+Signal
+Smart
+Software
+Standalone
+Technology
+TypeScript
+User Experience
+`;
